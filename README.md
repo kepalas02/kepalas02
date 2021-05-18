@@ -1,6 +1,6 @@
 Hi,
 
-My name is Arthur Bourdin, i'm a Student at Epitech Paris.
+My name is Arthur Bourdin, i'm a student in 1st year Epitech Paris.
 
 I'm currently learning C programming
 
