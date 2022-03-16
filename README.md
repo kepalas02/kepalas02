@@ -1,8 +1,6 @@
 Hi,
 
-My name is Arthur Bourdin, i'm a student in 1st year Epitech Paris.
-
-I'm currently learning C programming
+My name is Arthur Bourdin, i'm a student in 2st year Epitech Paris.
 
 <!---
 kepalas02/kepalas02 is a special repository because its `README.md` (this file) appears on your GitHub profile.
