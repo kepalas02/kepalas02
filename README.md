@@ -3,8 +3,8 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=180&section=header&text=kepalas02&fontColor=ff3300&fontSize=42&fontAlignY=35&desc=fullstack%20developer%20%E2%80%A2%20game%20dev%20%E2%80%A2%20epitech%20tek5&descColor=cc8800&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 
-<!-- REDSTONE HEADER CIRCUIT -->
-<img src="./assets/redstone-header.png" width="100%" />
+<!-- REDSTONE CIRCUIT — animated with particles -->
+<img src="./assets/redstone-circuit.gif" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/kepalas02">
