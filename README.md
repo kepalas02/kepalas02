@@ -5,11 +5,12 @@
 
 </div>
 
-<!-- ═══════════════════ ROW 1 → ═══════════════════ -->
-<p align="center"><img src="./assets/elements/rs_block_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/bend_ld_p10_8x.png" height="48"></p>
+<!-- ═══════════════ FULL-HEIGHT SIDE WIRES ═══════════════ -->
+<img align="right" src="./assets/elements/ns_full_right.png" width="48">
+<img align="left" src="./assets/elements/ns_full_left.png" width="48">
 
-<!-- right side wire float -->
-<img align="right" src="./assets/elements/ns_side_r1.png" width="48">
+<!-- ═══════════════════ ROW 1 → ═══════════════════ -->
+<p align="center"><img src="./assets/elements/torch_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/bend_ld_p10_8x.png" height="48"></p>
 
 <div align="center">
 
@@ -19,13 +20,8 @@
 
 </div>
 
-<br clear="all">
-
 <!-- ═══════════════════ ROW 2 ← ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_rd_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p06_8x.png" height="48"><img src="./assets/elements/ew_p07_8x.png" height="48"><img src="./assets/elements/bend_lu_p08_8x.png" height="48"></p>
-
-<!-- left side wire float -->
-<img align="left" src="./assets/elements/ns_side_l1.png" width="48">
 
 <div align="center">
 
@@ -45,8 +41,6 @@
 
 </div>
 
-<br clear="all">
-
 <!-- ═══════════════════ ROW 3 → (game dev wire) ═══════════════════ -->
 
 <div align="center">
@@ -59,9 +53,6 @@
 </div>
 
 <p align="center"><img src="./assets/elements/bend_ru_p06_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/cross_lur_p14_8x.png" height="48"><img src="./assets/elements/cross_lur_p13_8x.png" height="48"><img src="./assets/elements/cross_lur_p12_8x.png" height="48"><img src="./assets/elements/cross_lur_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/bend_ld_p07_8x.png" height="48"></p>
-
-<!-- right side wire float -->
-<img align="right" src="./assets/elements/ns_side_r2.png" width="48">
 
 <div align="center">
 
@@ -76,13 +67,8 @@
 
 </div>
 
-<br clear="all">
-
 <!-- ═══════════════════ ROW 4 ← ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_rd_p07_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/bend_lu_p05_8x.png" height="48"></p>
-
-<!-- left side wire float -->
-<img align="left" src="./assets/elements/ns_side_l2.png" width="48">
 
 <div align="center">
 
@@ -93,12 +79,11 @@
 
 </div>
 
-<br clear="all">
-
 <!-- ═══════════════════ ROW 5 → ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_ru_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p02_8x.png" height="48"><img src="./assets/elements/ew_p01_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/lamp_on_8x.png" height="48"></p>
 
-<br/>
+<!-- ═══════════════ END SIDE WIRES ═══════════════ -->
+<br clear="all">
 
 <div align="center">
 
