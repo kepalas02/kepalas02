@@ -30,10 +30,10 @@
 
 **Game Development**
 
-<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" height="200" alt="Unity" /></a>&nbsp;&nbsp;
-<a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" height="200" alt="Godot" /></a>&nbsp;&nbsp;
-<a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" height="200" alt="Pygame" /></a>&nbsp;&nbsp;
-<a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" height="200" alt="CSFML" /></a>
+<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" /></a>
+<a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" /></a>
+<a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" /></a>
+<a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" /></a>
 
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
