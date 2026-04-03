@@ -8,8 +8,8 @@
 <!-- ═══════════════════ ROW 1 → ═══════════════════ -->
 <p align="center"><img src="./assets/elements/rs_block_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/bend_ld_p10_8x.png" height="48"></p>
 
-<!-- connector right -->
-<p align="right"><img src="./assets/elements/ns_p09_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p09_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p09_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- right side wire float -->
+<img align="right" src="./assets/elements/ns_side_r1.png" width="48">
 
 <div align="center">
 
@@ -19,14 +19,13 @@
 
 </div>
 
-<!-- connector right -->
-<p align="right"><img src="./assets/elements/ns_p08_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p08_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p08_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br clear="all">
 
 <!-- ═══════════════════ ROW 2 ← ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_rd_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p06_8x.png" height="48"><img src="./assets/elements/ew_p07_8x.png" height="48"><img src="./assets/elements/bend_lu_p08_8x.png" height="48"></p>
 
-<!-- connector left -->
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p07_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p07_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p07_8x.png" width="48"></p>
+<!-- left side wire float -->
+<img align="left" src="./assets/elements/ns_side_l1.png" width="48">
 
 <div align="center">
 
@@ -46,8 +45,7 @@
 
 </div>
 
-<!-- connector left -->
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p06_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p06_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p06_8x.png" width="48"></p>
+<br clear="all">
 
 <!-- ═══════════════════ ROW 3 → (game dev wire) ═══════════════════ -->
 
@@ -56,14 +54,14 @@
 ### `> game dev`
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
-<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a><br><img src="./assets/elements/ns_p14_8x.png" height="48"><img src="./assets/elements/ns_p13_8x.png" height="48"><img src="./assets/elements/ns_p12_8x.png" height="48"><img src="./assets/elements/ns_p11_8x.png" height="48"><br><img src="./assets/elements/ns_p14_8x.png" height="48"><img src="./assets/elements/ns_p13_8x.png" height="48"><img src="./assets/elements/ns_p12_8x.png" height="48"><img src="./assets/elements/ns_p11_8x.png" height="48">
+<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a><br><img src="./assets/elements/ns_p14_8x.png" height="48"><img src="./assets/elements/ns_p13_8x.png" height="48"><img src="./assets/elements/ns_p12_8x.png" height="48"><img src="./assets/elements/ns_p11_8x.png" height="48">
 
 </div>
 
 <p align="center"><img src="./assets/elements/bend_ru_p06_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/cross_lur_p14_8x.png" height="48"><img src="./assets/elements/cross_lur_p13_8x.png" height="48"><img src="./assets/elements/cross_lur_p12_8x.png" height="48"><img src="./assets/elements/cross_lur_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/bend_ld_p07_8x.png" height="48"></p>
 
-<!-- connector right -->
-<p align="right"><img src="./assets/elements/ns_p06_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p06_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p06_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- right side wire float -->
+<img align="right" src="./assets/elements/ns_side_r2.png" width="48">
 
 <div align="center">
 
@@ -78,14 +76,13 @@
 
 </div>
 
-<!-- connector right -->
-<p align="right"><img src="./assets/elements/ns_p05_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p05_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img src="./assets/elements/ns_p05_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br clear="all">
 
 <!-- ═══════════════════ ROW 4 ← ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_rd_p07_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/bend_lu_p05_8x.png" height="48"></p>
 
-<!-- connector left -->
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p04_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p04_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p04_8x.png" width="48"></p>
+<!-- left side wire float -->
+<img align="left" src="./assets/elements/ns_side_l2.png" width="48">
 
 <div align="center">
 
@@ -96,8 +93,7 @@
 
 </div>
 
-<!-- connector left -->
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p03_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p03_8x.png" width="48"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p03_8x.png" width="48"></p>
+<br clear="all">
 
 <!-- ═══════════════════ ROW 5 → ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_ru_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p02_8x.png" height="48"><img src="./assets/elements/ew_p01_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/lamp_on_8x.png" height="48"></p>
