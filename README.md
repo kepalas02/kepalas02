@@ -75,8 +75,8 @@
 ```
  ◆ Fullstack web apps          — React, Next.js, Node, Python
  ◆ Games                       — Unity (C#), Godot, CSFML, Pygame
- ◆ Systems & tooling           — CLI tools, dev frameworks, automation
- ◆ Low-level programming       — C, C++, embedded, reverse engineering
+ ◆ AI agent systems            — orchestration, multi-agent frameworks
+ ◆ Systems programming         — C, C++, Haskell, performance-critical code
 ```
 
 </div>
