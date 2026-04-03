@@ -59,7 +59,7 @@
 
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
-<img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48">
+<img src="./assets/elements/ns_p14_8x.png" height="48"><img src="./assets/elements/ns_p13_8x.png" height="48"><img src="./assets/elements/ns_p12_8x.png" height="48"><img src="./assets/elements/ns_p11_8x.png" height="48">
 
 </div>
 
