@@ -8,7 +8,8 @@
 <!-- ═══════════════════ ROW 1 → ═══════════════════ -->
 <p align="center"><img src="./assets/elements/rs_block_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/bend_ld_p10_8x.png" height="48"></p>
 
-<!-- ══════════════════════════════════════════════════ -->
+<!-- connector right -->
+<p align="right"><img src="./assets/elements/ns_p09_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <div align="center">
 
@@ -18,72 +19,91 @@
 
 </div>
 
+<!-- connector right -->
+<p align="right"><img src="./assets/elements/ns_p08_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
 <!-- ═══════════════════ ROW 2 ← ═══════════════════ -->
 <p align="center"><img src="./assets/elements/bend_rd_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p06_8x.png" height="48"><img src="./assets/elements/ew_p07_8x.png" height="48"><img src="./assets/elements/bend_lu_p08_8x.png" height="48"></p>
 
-<!-- ══════════════════════════════════════════════════ -->
+<!-- connector left -->
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p07_8x.png" width="48"></p>
 
 <div align="center">
 
+### `> tech stack`
+
+**Systems & Low-Level**
+
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,haskell&theme=dark" alt="Systems" />
 
-<br/>
+**Web & Fullstack**
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind&theme=dark" alt="Web" />
 
-<br/>
+**Tools & Infra**
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github&theme=dark" alt="Tools" />
 
 </div>
 
-<!-- ═══════════════════ ROW 3 → ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_ru_p06_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/bend_ld_p08_8x.png" height="48"></p>
+<!-- connector left -->
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p06_8x.png" width="48"></p>
 
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ═══════════════════ ROW 3 → (game dev wire) ═══════════════════ -->
 
 <div align="center">
 
-<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" /></a>
-<a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" /></a>
-<a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" /></a>
-<a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" /></a>
+### `> game dev`
 
-<sub>Unity · Godot · Pygame · CSFML</sub>
+<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a>
+
+<sub>Unity (C#) · Godot · Pygame · CSFML</sub>
+
+<img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48"><img src="./assets/elements/repeater_on_up_8x.png" height="48">
 
 </div>
+
+<p align="center"><img src="./assets/elements/bend_ru_p06_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/cross_lur_p14_8x.png" height="48"><img src="./assets/elements/cross_lur_p13_8x.png" height="48"><img src="./assets/elements/cross_lur_p12_8x.png" height="48"><img src="./assets/elements/cross_lur_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/bend_ld_p07_8x.png" height="48"></p>
+
+<!-- connector right -->
+<p align="right"><img src="./assets/elements/ns_p06_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<div align="center">
+
+### `> what I build`
+
+```
+ ◆ Fullstack web apps          — React, Next.js, Node, Python
+ ◆ Games                       — Unity (C#), Godot, CSFML, Pygame
+ ◆ Systems & tooling           — CLI tools, dev frameworks, automation
+ ◆ Low-level programming       — C, C++, embedded, reverse engineering
+```
+
+</div>
+
+<!-- connector right -->
+<p align="right"><img src="./assets/elements/ns_p05_8x.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <!-- ═══════════════════ ROW 4 ← ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_rd_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/bend_lu_p06_8x.png" height="48"></p>
+<p align="center"><img src="./assets/elements/bend_rd_p07_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/bend_lu_p05_8x.png" height="48"></p>
 
-<!-- ══════════════════════════════════════════════════ -->
+<!-- connector left -->
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p04_8x.png" width="48"></p>
 
 <div align="center">
 
-```
- > what I build
+### `> stats`
 
- ◆ Fullstack web apps          — React, Next.js, Node, Python
- ◆ Games                       — Unity (C#), Godot, game design
- ◆ Bots & automation           — Discord bots, trading systems
- ◆ Security                    — Pentesting, reverse engineering
- ◆ Developer tooling           — CLI tools, agent systems
-```
+<img src="https://github-readme-stats.vercel.app/api?username=kepalas02&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3300&icon_color=cc8800&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kepalas02&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3300&text_color=c9d1d9" height="165" />
 
 </div>
+
+<!-- connector left -->
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/elements/ns_p03_8x.png" width="48"></p>
 
 <!-- ═══════════════════ ROW 5 → ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_ru_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p02_8x.png" height="48"><img src="./assets/elements/ew_p01_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/lamp_on_8x.png" height="48"></p>
-
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kepalas02&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3300&icon_color=cc8800&text_color=c9d1d9" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kepalas02&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3300&text_color=c9d1d9" height="165" />
-
-</div>
+<p align="center"><img src="./assets/elements/bend_ru_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p02_8x.png" height="48"><img src="./assets/elements/ew_p01_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/lamp_on_8x.png" height="48"></p>
 
 <br/>
 
