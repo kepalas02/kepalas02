@@ -30,7 +30,10 @@
 
 **Game Development**
 
-<img src="https://skillicons.dev/icons?i=unity,godot,py,c&theme=dark" alt="Game Dev" />
+<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" width="48" alt="Unity" /></a>
+<a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" width="48" alt="Godot" /></a>
+<a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" width="48" alt="Pygame" /></a>
+<a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" width="48" alt="CSFML" /></a>
 
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
