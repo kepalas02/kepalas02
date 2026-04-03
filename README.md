@@ -5,12 +5,11 @@
 
 </div>
 
-<!-- ═══════════════ FULL-HEIGHT SIDE WIRES ═══════════════ -->
-<img align="right" src="./assets/elements/ns_full_right.png" width="48">
-<img align="left" src="./assets/elements/ns_full_left.png" width="48">
+<!-- ═══════════════════ ROW 1 → (torch start) ═══════════════════ -->
+<img src="./assets/elements/row1.png" width="100%">
 
-<!-- ═══════════════════ ROW 1 → ═══════════════════ -->
-<p align="center"><img src="./assets/elements/torch_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/bend_ld_p10_8x.png" height="48"></p>
+<!-- ═══════════════════ SECTION 1 — intro (wire RIGHT) ═══════════════════ -->
+<img align="right" src="./assets/elements/ns_sec_r1.png" width="48">
 
 <div align="center">
 
@@ -20,8 +19,13 @@
 
 </div>
 
+<br clear="all">
+
 <!-- ═══════════════════ ROW 2 ← ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_rd_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p06_8x.png" height="48"><img src="./assets/elements/ew_p07_8x.png" height="48"><img src="./assets/elements/bend_lu_p08_8x.png" height="48"></p>
+<img src="./assets/elements/row2.png" width="100%">
+
+<!-- ═══════════════════ SECTION 2 — tech stack + game dev (wire LEFT) ═══════════════════ -->
+<img align="left" src="./assets/elements/ns_sec_l1.png" width="48">
 
 <div align="center">
 
@@ -39,12 +43,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github&theme=dark" alt="Tools" />
 
-</div>
-
-<!-- ═══════════════════ ROW 3 → (game dev wire) ═══════════════════ -->
-
-<div align="center">
-
 ### `> game dev`
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
@@ -52,7 +50,13 @@
 
 </div>
 
-<p align="center"><img src="./assets/elements/bend_ru_p06_8x.png" height="48"><img src="./assets/elements/ew_p05_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/cross_lur_p14_8x.png" height="48"><img src="./assets/elements/cross_lur_p13_8x.png" height="48"><img src="./assets/elements/cross_lur_p12_8x.png" height="48"><img src="./assets/elements/cross_lur_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/bend_ld_p07_8x.png" height="48"></p>
+<br clear="all">
+
+<!-- ═══════════════════ ROW 3 → (crosses feed pistons) ═══════════════════ -->
+<img src="./assets/elements/row3.png" width="100%">
+
+<!-- ═══════════════════ SECTION 3 — what I build (wire RIGHT) ═══════════════════ -->
+<img align="right" src="./assets/elements/ns_sec_r2.png" width="48">
 
 <div align="center">
 
@@ -67,8 +71,13 @@
 
 </div>
 
+<br clear="all">
+
 <!-- ═══════════════════ ROW 4 ← ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_rd_p07_8x.png" height="48"><img src="./assets/elements/ew_p08_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/repeater_on_left_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p04_8x.png" height="48"><img src="./assets/elements/bend_lu_p05_8x.png" height="48"></p>
+<img src="./assets/elements/row4.png" width="100%">
+
+<!-- ═══════════════════ SECTION 4 — stats (wire LEFT) ═══════════════════ -->
+<img align="left" src="./assets/elements/ns_sec_l2.png" width="48">
 
 <div align="center">
 
@@ -79,11 +88,10 @@
 
 </div>
 
-<!-- ═══════════════════ ROW 5 → ═══════════════════ -->
-<p align="center"><img src="./assets/elements/bend_ru_p04_8x.png" height="48"><img src="./assets/elements/ew_p03_8x.png" height="48"><img src="./assets/elements/ew_p02_8x.png" height="48"><img src="./assets/elements/ew_p01_8x.png" height="48"><img src="./assets/elements/repeater_on_8x.png" height="48"><img src="./assets/elements/ew_p14_8x.png" height="48"><img src="./assets/elements/ew_p13_8x.png" height="48"><img src="./assets/elements/ew_p12_8x.png" height="48"><img src="./assets/elements/ew_p11_8x.png" height="48"><img src="./assets/elements/ew_p10_8x.png" height="48"><img src="./assets/elements/ew_p09_8x.png" height="48"><img src="./assets/elements/lamp_on_8x.png" height="48"></p>
-
-<!-- ═══════════════ END SIDE WIRES ═══════════════ -->
 <br clear="all">
+
+<!-- ═══════════════════ ROW 5 → (ends with lamp) ═══════════════════ -->
+<img src="./assets/elements/row5.png" width="100%">
 
 <div align="center">
 
