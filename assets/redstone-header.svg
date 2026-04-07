@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+  <style>
+    .p1 { animation: pulse1 3s ease-in-out infinite; }
+    .p2 { animation: pulse1 3s ease-in-out 0.5s infinite; }
+    .p3 { animation: pulse1 3s ease-in-out 1s infinite; }
+    .p4 { animation: pulse1 3s ease-in-out 1.5s infinite; }
+    .p5 { animation: pulse1 3s ease-in-out 2s infinite; }
+    @keyframes pulse1 {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+  </style>
+  <!-- Left circuit -->
+  <rect x="0" y="19" width="100" height="2" fill="#4a0000"/>
+  <rect x="100" y="19" width="60" height="2" fill="#770000" class="p1"/>
+  <!-- Junction left -->
+  <rect x="160" y="12" width="2" height="16" fill="#990000" class="p1"/>
+  <rect x="162" y="12" width="20" height="2" fill="#990000" class="p2"/>
+  <rect x="162" y="26" width="20" height="2" fill="#770000"/>
+  <!-- Torch left -->
+  <rect x="182" y="8" width="4" height="8" fill="#555"/>
+  <circle cx="184" cy="7" r="4" fill="#ff2200" class="p2"/>
+  <!-- Main horizontal -->
+  <rect x="186" y="19" width="100" height="2" fill="#cc1100" class="p2"/>
+  <!-- Particle cluster 1 -->
+  <circle cx="290" cy="20" r="3" fill="#ff3300" class="p3"/>
+  <circle cx="298" cy="16" r="1.5" fill="#ff2200" class="p2"/>
+  <circle cx="296" cy="24" r="1.5" fill="#ff2200" class="p4"/>
+  <!-- Center line -->
+  <rect x="300" y="19" width="200" height="2" fill="#ee2200" class="p3"/>
+  <!-- Center emblem -->
+  <rect x="385" y="10" width="30" height="20" fill="none" stroke="#ff2200" stroke-width="2" rx="2" class="p3"/>
+  <circle cx="400" cy="20" r="5" fill="#ff2200" class="p3"/>
+  <!-- Continue right -->
+  <rect x="500" y="19" width="100" height="2" fill="#cc1100" class="p4"/>
+  <!-- Particle cluster 2 -->
+  <circle cx="510" cy="16" r="1.5" fill="#ff2200" class="p3"/>
+  <circle cx="514" cy="24" r="1.5" fill="#ff2200" class="p5"/>
+  <!-- Torch right -->
+  <rect x="614" y="8" width="4" height="8" fill="#555"/>
+  <circle cx="616" cy="7" r="4" fill="#ff2200" class="p4"/>
+  <!-- Junction right -->
+  <rect x="618" y="12" width="20" height="2" fill="#990000" class="p4"/>
+  <rect x="618" y="26" width="20" height="2" fill="#770000"/>
+  <rect x="638" y="12" width="2" height="16" fill="#990000" class="p5"/>
+  <!-- Right trail -->
+  <rect x="640" y="19" width="60" height="2" fill="#770000" class="p5"/>
+  <rect x="700" y="19" width="100" height="2" fill="#4a0000"/>
+</svg>

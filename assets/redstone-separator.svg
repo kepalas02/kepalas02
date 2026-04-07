@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20">
+  <style>
+    .pulse { animation: glow 2s ease-in-out infinite alternate; }
+    @keyframes glow {
+      0% { opacity: 0.4; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <!-- Redstone dust trail -->
+  <rect x="0" y="9" width="120" height="2" fill="#6b0000" rx="1"/>
+  <rect x="120" y="9" width="8" height="2" fill="#aa0000"/>
+  <rect x="128" y="5" width="2" height="10" fill="#aa0000"/>
+  <rect x="130" y="9" width="30" height="2" fill="#aa0000"/>
+  <!-- Torch 1 -->
+  <rect x="160" y="4" width="4" height="12" fill="#444" rx="1"/>
+  <circle cx="162" cy="4" r="3" fill="#ff2200" class="pulse"/>
+  <!-- Trail continues -->
+  <rect x="164" y="9" width="80" height="2" fill="#cc1100" class="pulse"/>
+  <rect x="244" y="7" width="2" height="6" fill="#cc1100"/>
+  <rect x="246" y="9" width="60" height="2" fill="#aa0000"/>
+  <!-- Repeater -->
+  <rect x="306" y="6" width="12" height="8" fill="#555" rx="1"/>
+  <circle cx="309" cy="10" r="2" fill="#ff2200" class="pulse"/>
+  <circle cx="315" cy="10" r="2" fill="#880000"/>
+  <!-- Trail continues -->
+  <rect x="318" y="9" width="90" height="2" fill="#cc1100" class="pulse"/>
+  <rect x="408" y="9" width="40" height="2" fill="#aa0000"/>
+  <!-- Torch 2 -->
+  <rect x="448" y="4" width="4" height="12" fill="#444" rx="1"/>
+  <circle cx="450" cy="4" r="3" fill="#ff2200" class="pulse"/>
+  <!-- Trail continues -->
+  <rect x="452" y="9" width="70" height="2" fill="#cc1100" class="pulse"/>
+  <rect x="522" y="7" width="2" height="6" fill="#cc1100"/>
+  <rect x="524" y="9" width="50" height="2" fill="#aa0000"/>
+  <!-- Comparator -->
+  <rect x="574" y="5" width="14" height="10" fill="#555" rx="1"/>
+  <circle cx="578" cy="10" r="2" fill="#ff2200" class="pulse"/>
+  <circle cx="585" cy="10" r="2" fill="#ff2200" class="pulse"/>
+  <!-- Final trail -->
+  <rect x="588" y="9" width="80" height="2" fill="#cc1100" class="pulse"/>
+  <rect x="668" y="9" width="8" height="2" fill="#aa0000"/>
+  <rect x="676" y="5" width="2" height="10" fill="#aa0000"/>
+  <rect x="678" y="9" width="122" height="2" fill="#6b0000"/>
+</svg>
