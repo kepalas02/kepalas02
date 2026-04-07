@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=180&section=header&text=kepalas02&fontColor=ff3300&fontSize=42&fontAlignY=35&desc=fullstack%20developer%20%E2%80%A2%20game%20dev%20%E2%80%A2%20epitech%20tek5&descColor=cc8800&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div><img src="./assets/elements/row1.png" width="100%"></div>
-<div><img src="./assets/elements/gap_right_1.png" align="right" width="5.556%"><div align="center"><a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a></div></div>
+<div><img src="./assets/elements/gap_right_1b.png" align="right" width="5.556%"><div align="center"><a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a></div></div>
 <div><img src="./assets/elements/row2.png" width="100%"></div>
-<div><img src="./assets/elements/gap_left_1.png" align="left" width="5.556%">
+<div><img src="./assets/elements/gap_left_1b.png" align="left" width="5.556%">
 <br>
 <div align="center"><b><code>> tech stack</code></b></div><br>
 <div align="center"><b>Systems & Low-Level</b><br>
@@ -19,7 +19,7 @@
 <img src="./assets/elements/ns_p08_8x.png" height="48"><img src="./assets/elements/ns_p07_8x.png" height="48"><img src="./assets/elements/ns_p06_8x.png" height="48"><img src="./assets/elements/ns_p05_8x.png" height="48"></div>
 </div>
 <div><img src="./assets/elements/row3.png" width="100%"></div>
-<div><img src="./assets/elements/gap_right_2.png" align="right" width="5.556%">
+<div><img src="./assets/elements/gap_right_2b.png" align="right" width="5.556%">
 <br>
 <div align="center"><b><code>> what I build</code></b></div><br>
 <div align="center"><code>◆ Fullstack web apps — React, Next.js, Node, Python</code><br>
@@ -28,7 +28,7 @@
 <code>◆ Systems programming — C, C++, Haskell, performance-critical code</code></div>
 </div>
 <div><img src="./assets/elements/row4.png" width="100%"></div>
-<div><img src="./assets/elements/gap_left_2.png" align="left" width="5.556%">
+<div><img src="./assets/elements/gap_left_2b.png" align="left" width="5.556%">
 <br>
 <div align="center"><b><code>> stats</code></b></div><br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kepalas02&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3300&icon_color=cc8800&text_color=c9d1d9" height="165" />
