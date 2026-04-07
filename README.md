@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=180&section=header&text=kepalas02&fontColor=ff3300&fontSize=42&fontAlignY=35&desc=fullstack%20developer%20%E2%80%A2%20game%20dev%20%E2%80%A2%20epitech%20tek5&descColor=cc8800&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
-<!-- ═══════════════════ ROW 1 → (torch + stubs down right) ═══════════════════ -->
 <img src="./assets/elements/row1.png" width="100%">
 
 <div align="center">
@@ -11,7 +10,6 @@
 
 </div>
 
-<!-- ═══════════════════ ROW 2 ← (stubs up right + stubs down left) ═══════════════════ -->
 <img src="./assets/elements/row2.png" width="100%">
 
 <div align="center">
@@ -33,13 +31,10 @@
 ### `> game dev`
 <sub>Unity (C#) · Godot · Pygame · CSFML</sub>
 
-<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a>
+<a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a><br><img src="./assets/elements/ns_p08_8x.png" height="48"><img src="./assets/elements/ns_p07_8x.png" height="48"><img src="./assets/elements/ns_p06_8x.png" height="48"><img src="./assets/elements/ns_p05_8x.png" height="48">
 
 </div>
 
-<img src="./assets/elements/piston_conn.png" width="100%">
-
-<!-- ═══════════════════ ROW 3 → (stubs up left + crosses + stubs down right) ═══════════════════ -->
 <img src="./assets/elements/row3.png" width="100%">
 
 <div align="center">
@@ -55,7 +50,6 @@
 
 </div>
 
-<!-- ═══════════════════ ROW 4 ← (stubs up right + stubs down left) ═══════════════════ -->
 <img src="./assets/elements/row4.png" width="100%">
 
 <div align="center">
@@ -67,7 +61,6 @@
 
 </div>
 
-<!-- ═══════════════════ ROW 5 → (stubs up left + lamp) ═══════════════════ -->
 <img src="./assets/elements/row5.png" width="100%">
 
 <div align="center">
