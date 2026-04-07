@@ -2,10 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=180&section=header&text=kepalas02&fontColor=ff3300&fontSize=42&fontAlignY=35&desc=fullstack%20developer%20%E2%80%A2%20game%20dev%20%E2%80%A2%20epitech%20tek5&descColor=cc8800&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div><img src="./assets/elements/row1.png" width="100%"></div>
-<table width="100%"><tr>
-<td align="center"><a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a></td>
-<td width="5.556%"><img src="./assets/elements/ns_p04_8x.png" width="100%"><img src="./assets/elements/ns_p03_8x.png" width="100%"></td>
-</tr></table>
+<div><img src="./assets/elements/ns_p04_8x.png" align="right" width="5.556%"><div align="center"><a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a></div></div>
 <div><img src="./assets/elements/row2.png" width="100%"></div>
 <div align="center">
 <br>
