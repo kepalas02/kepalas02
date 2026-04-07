@@ -22,12 +22,10 @@
 <div align="center">
 <br>
 <b><code>> what I build</code></b><br><br>
-<pre>
- ◆ Fullstack web apps          — React, Next.js, Node, Python
- ◆ Games                       — Unity (C#), Godot, CSFML, Pygame
- ◆ AI agent systems            — orchestration, multi-agent frameworks
- ◆ Systems programming         — C, C++, Haskell, performance-critical code
-</pre>
+<code>◆ Fullstack web apps — React, Next.js, Node, Python</code><br>
+<code>◆ Games — Unity (C#), Godot, CSFML, Pygame</code><br>
+<code>◆ AI agent systems — orchestration, multi-agent frameworks</code><br>
+<code>◆ Systems programming — C, C++, Haskell, performance-critical code</code>
 </div>
 <div><img src="./assets/elements/row4.png" width="100%"></div>
 <div align="center">
