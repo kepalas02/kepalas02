@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=180&section=header&text=kepalas02&fontColor=ff3300&fontSize=42&fontAlignY=35&desc=fullstack%20developer%20%E2%80%A2%20game%20dev%20%E2%80%A2%20epitech%20tek5&descColor=cc8800&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 </div>
-<img src="./assets/elements/row1.png" width="100%">
+<div><img src="./assets/elements/row1.png" width="100%"></div>
 <div align="center">
 
 <a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 </div>
-<img src="./assets/elements/row2.png" width="100%">
+<div><img src="./assets/elements/row2.png" width="100%"></div>
 <div align="center">
 
 ### `> tech stack`
@@ -30,7 +30,7 @@
 <a href="https://unity.com"><img src="./assets/piston_push_unity.gif" alt="Unity" height="200" /></a><a href="https://godotengine.org"><img src="./assets/piston_push_godot.gif" alt="Godot" height="200" /></a><a href="https://www.pygame.org"><img src="./assets/piston_push_pygame.gif" alt="Pygame" height="200" /></a><a href="https://www.sfml-dev.org/download/csfml"><img src="./assets/piston_push_csfml.gif" alt="CSFML" height="200" /></a><br><img src="./assets/elements/ns_p08_8x.png" height="48"><img src="./assets/elements/ns_p07_8x.png" height="48"><img src="./assets/elements/ns_p06_8x.png" height="48"><img src="./assets/elements/ns_p05_8x.png" height="48">
 
 </div>
-<img src="./assets/elements/row3.png" width="100%">
+<div><img src="./assets/elements/row3.png" width="100%"></div>
 <div align="center">
 
 ### `> what I build`
@@ -43,7 +43,7 @@
 ```
 
 </div>
-<img src="./assets/elements/row4.png" width="100%">
+<div><img src="./assets/elements/row4.png" width="100%"></div>
 <div align="center">
 
 ### `> stats`
@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kepalas02&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3300&text_color=c9d1d9" height="165" />
 
 </div>
-<img src="./assets/elements/row5.png" width="100%">
+<div><img src="./assets/elements/row5.png" width="100%"></div>
 <div align="center">
 <br>
 <img src="https://komarev.com/ghpvc/?username=kepalas02&style=flat-square&color=aa0000&label=visitors" alt="Profile views" />
@@ -61,4 +61,4 @@
 *`the best code is the one that ships.`*
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=100&section=footer" width="100%" />
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:aa0000,100:1a0000&height=100&section=footer" width="100%" /></div>
