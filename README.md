@@ -4,7 +4,7 @@
 <div><img src="./assets/elements/row1.png" width="100%"></div>
 <div><img src="./assets/elements/gap_right_1b.png" align="right" width="5.556%"><div align="center"><a href="https://github.com/kepalas02"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF3300&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+fullstack+apps;Designing+%26+shipping+games;Epitech+Paris+%E2%80%94+Tek+5;Always+learning%2C+always+shipping" alt="Typing SVG" /></a></div></div>
 <div><img src="./assets/elements/row2.png" width="100%"></div>
-<div><img src="./assets/elements/gap_left_1b.png" align="left" width="5.556%">
+<div><img src="./assets/elements/gap_left_1c.png" align="left" width="5.556%">
 <br>
 <div align="center"><b><code>> tech stack</code></b></div><br>
 <div align="center"><b>Systems & Low-Level</b><br>
